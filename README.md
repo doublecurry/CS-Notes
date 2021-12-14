@@ -1,13 +1,3 @@
-<div align="center">
-    <a href="https://www.cyc2018.xyz"> <img src="https://badgen.net/badge/CyC/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph&color=4ab8a1"></a>
-    <a href="https://gitstar-ranking.com/repositories"> <img src="https://badgen.net/badge/Rank/13?icon=github&color=4ab8a1"></a>
-    <a href="https://github.com/CyC2018/CS-Notes"> <img src="https://badgen.net/github/stars/CyC2018/CS-Notes?icon=github&color=4ab8a1"></a>
-    <a href="https://github.com/CyC2018/CS-Notes"> <img src="https://badgen.net/github/forks/CyC2018/CS-Notes?icon=github&color=4ab8a1"></a>
-    <!-- <a href="assets/download.md"> <img src="https://badgen.net/badge/OvO/%E7%A6%BB%E7%BA%BF%E4%B8%8B%E8%BD%BD?icon=telegram&color=4ab8a1"></a> -->
-    <!-- <a href="assets/download.md"> <img src="https://badgen.net/badge/%e5%85%ac%e4%bc%97%e5%8f%b7/CyC2018?icon=rss&color=4ab8a1"></a> -->
-</div>
-<br>
-
 | 算法&nbsp; | 操作系统 | 网络&nbsp;|面向对象| &nbsp;数据库&nbsp;&nbsp;|&nbsp;Java&nbsp;&nbsp;|系统设计| &nbsp;&nbsp;工具&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;后记&nbsp;&nbsp; |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
